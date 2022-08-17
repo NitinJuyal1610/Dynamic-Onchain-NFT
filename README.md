@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Dynamic-Onchain-NFT
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+https://testnets.opensea.io/assets/mumbai/0xfef5c9fdc85dcbad4c15ce5f7d0578c26194d6f6/1/
 
 Try running some of the following tasks:
 
